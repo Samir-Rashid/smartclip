@@ -1,0 +1,4 @@
+# Rust firmware
+
+- support OpenThread
+
