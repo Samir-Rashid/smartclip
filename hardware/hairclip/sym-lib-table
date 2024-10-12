@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "NRF52840-CKAA-R")(type "KiCad")(uri "/home/mod/Documents/github/smartclip/hardware/footprints/ul_NRF52840-CKAA-R/KiCADv6/2024-10-12_18-47-21.kicad_sym")(options "")(descr ""))
+)
