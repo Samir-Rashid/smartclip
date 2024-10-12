@@ -1,0 +1,2 @@
+# smartclip
+Intelligent wearable hairclip
