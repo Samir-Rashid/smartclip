@@ -1,5 +1,12 @@
 # smartclip
-Intelligent wearable hairclip
+Intelligent wearable hairclip. A testbed for wearable computing such as health monitoring devices. Supports Tock OS and the Thread protocol.
+
+* low cost ($5)
+* low power (3µA)
+  * up to 10 years of battery life
+* operates without internet access
+* open source foundation for secure medical devices
+
 
 > 4. Medical Device Innovation and Assistive Technologies
 > - Pathway 1: Improve existing medical devices and assistive technologies (e.g., enhancing usability and sustainability, improving affordability of assistive devices).

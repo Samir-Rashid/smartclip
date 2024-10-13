@@ -1,9 +1,9 @@
-**Pitch for the NRF52840 Wearable Device: "HealthGuardian"**
+**Pitch for the NRF52840 Wearable Device: "Secure Dust"**
 
 ---
 
 **Introduction:**
-Imagine a world where your health data is always at your fingertips—literally! We present to you the "HealthGuardian," a small, powerful wearable device built on the NRF52840 chip. This innovative gadget is designed to monitor vital health metrics in real-time, empowering users to take charge of their wellness.
+Imagine a world where your health data is always at your fingertips—literally! We present to you the "Secure Dust," a small, powerful wearable device built on the NRF52840 chip. This innovative gadget is designed to monitor vital health metrics in real-time, empowering users to take charge of their wellness.
 
 ---
 
@@ -40,7 +40,7 @@ Imagine a world where your health data is always at your fingertips—literally!
 ---
 
 **Why We Need You:**
-We’re looking for talented individuals to help us refine our prototype, develop an intuitive app, and create a compelling user experience. Join us in revolutionizing personal health management with the "HealthGuardian"!
+We’re looking for talented individuals to help us refine our prototype, develop an intuitive app, and create a compelling user experience. Join us in revolutionizing personal health management with the "Secure Dust"!
 
 ---
 
@@ -50,4 +50,4 @@ The NRF52840's robust capabilities enable us to create a device that is not just
 ---
 
 **Call to Action:**
-Join us on this journey! Together, we can bring HealthGuardian from concept to reality at this hackathon!
+Join us on this journey! Together, we can bring Secure Dust from concept to reality at this hackathon!
