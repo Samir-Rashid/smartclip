@@ -5045,7 +5045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08bacb23-8ef1-474c-84f4-f950ec80a899")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR014"
 			(at 241.3 116.84 0)
 			(effects
 				(font
@@ -5095,7 +5095,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR09")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -5111,7 +5111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ecfff48-c24b-4554-b485-4b2f9a2cf22c")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR05"
 			(at 71.12 132.08 0)
 			(effects
 				(font
@@ -5161,7 +5161,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR06")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5177,7 +5177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12f5fca1-2f7c-40f9-a9e4-788ea2b66da1")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR07"
 			(at 76.2 83.82 0)
 			(effects
 				(font
@@ -5227,7 +5227,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR02")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -5259,7 +5259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical"
 			(at 36.83 118.11 0)
 			(effects
 				(font
@@ -5311,7 +5311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14efd2b9-eafc-4818-ac54-3a513b6cbc65")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 203.2 151.1299 0)
 			(effects
 				(font
@@ -5329,7 +5329,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 200.3552 156.21 0)
 			(effects
 				(font
@@ -5365,7 +5365,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -5397,7 +5397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "WLCSP94_3P5X3P6_NOR"
+		(property "Footprint" "Package_DFN_QFN:Nordic_AQFN-73-1EP_7x7mm_P0.5mm"
 			(at 99.06 41.91 0)
 			(effects
 				(font
@@ -5727,7 +5727,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2af23bdf-0406-475c-947d-82232d391855")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 74.93 120.6499 0)
 			(effects
 				(font
@@ -5745,7 +5745,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 72.0852 125.73 0)
 			(effects
 				(font
@@ -5781,7 +5781,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -5797,7 +5797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4846ee8d-be00-4f4e-8bb2-bfa03e168462")
-		(property "Reference" "C1"
+		(property "Reference" "C6"
 			(at 80.01 69.8499 0)
 			(effects
 				(font
@@ -5815,7 +5815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 77.1652 74.93 0)
 			(effects
 				(font
@@ -5851,7 +5851,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C1")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -5867,7 +5867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "525d61d5-e399-4855-9d93-8d1d4ed0726c")
-		(property "Reference" "C3"
+		(property "Reference" "C1"
 			(at 27.94 86.36 90)
 			(effects
 				(font
@@ -5883,7 +5883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 31.75 93.0148 0)
 			(effects
 				(font
@@ -5919,7 +5919,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C3")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -5951,7 +5951,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 34.29 79.0448 0)
 			(effects
 				(font
@@ -6003,7 +6003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57797192-43c2-47a8-a987-ae1aa5118412")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR03"
 			(at 45.72 133.35 0)
 			(effects
 				(font
@@ -6053,7 +6053,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR08")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -6085,7 +6085,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0201_0603Metric"
 			(at 189.23 95.25 0)
 			(effects
 				(font
@@ -6137,7 +6137,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59e30145-e261-46ce-8849-7350d4d273c9")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 62.23 120.6499 0)
 			(effects
 				(font
@@ -6155,7 +6155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 59.3852 125.73 0)
 			(effects
 				(font
@@ -6191,7 +6191,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -6223,7 +6223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
 			(at 39.37 46.99 0)
 			(effects
 				(font
@@ -6358,7 +6358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6703a814-2af5-4ce9-824d-f36babcb18db")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 213.36 88.9 0)
 			(effects
 				(font
@@ -6408,7 +6408,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -6440,7 +6440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 200.66 97.028 90)
 			(effects
 				(font
@@ -6492,7 +6492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70212412-0d90-4c17-8d97-9336a6c71e31")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR012"
 			(at 222.25 167.64 0)
 			(effects
 				(font
@@ -6542,7 +6542,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR011")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -6574,7 +6574,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0402_1005Metric"
 			(at 64.77 118.11 0)
 			(effects
 				(font
@@ -6644,7 +6644,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASCO-4Pin_1.6x1.2mm"
 			(at 40.64 87.63 0)
 			(effects
 				(font
@@ -6696,7 +6696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "917e8307-a9d9-44bb-ab81-25dbeb5223e0")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR09"
 			(at 191.77 151.13 0)
 			(effects
 				(font
@@ -6746,7 +6746,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR013")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -6762,7 +6762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "948e5d77-97b0-45f9-b545-a5ce5abc66e8")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR04"
 			(at 58.42 132.08 0)
 			(effects
 				(font
@@ -6812,7 +6812,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR07")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -6828,7 +6828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d1591bd-1a03-4770-9df9-cc630066e28f")
-		(property "Reference" "C7"
+		(property "Reference" "C8"
 			(at 217.17 77.4699 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 214.3252 82.55 0)
 			(effects
 				(font
@@ -6882,7 +6882,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C7")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -6898,7 +6898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a620f56b-87fb-498f-a981-a09e860570bc")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR013"
 			(at 238.76 151.13 0)
 			(effects
 				(font
@@ -6948,7 +6948,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR012")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -6964,7 +6964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a93130b6-ce08-4819-a8f0-a13cc7bd6614")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR010"
 			(at 210.82 95.25 0)
 			(effects
 				(font
@@ -7015,7 +7015,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR014")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7031,7 +7031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b68e7649-e4b3-45e6-9ca6-ef0be9f2b866")
-		(property "Reference" "C6"
+		(property "Reference" "C3"
 			(at 49.53 121.9199 0)
 			(effects
 				(font
@@ -7049,7 +7049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 46.6852 127 0)
 			(effects
 				(font
@@ -7085,7 +7085,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "C6")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -7101,7 +7101,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf29ef04-3146-4a94-93b3-584b55f0cdaa")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR02"
 			(at 21.59 106.68 0)
 			(effects
 				(font
@@ -7151,7 +7151,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR04")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -7167,7 +7167,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4b62a19-b712-497d-9ee3-fee2eb89989d")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR08"
 			(at 187.96 165.1 0)
 			(effects
 				(font
@@ -7217,7 +7217,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR01")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -7251,7 +7251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 239.7252 154.94 0)
 			(effects
 				(font
@@ -7385,7 +7385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8e81186-523e-4c26-b8ac-1759f5de00c0")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR01"
 			(at 20.32 67.31 0)
 			(effects
 				(font
@@ -7435,7 +7435,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR05")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -7451,7 +7451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e05e191a-3956-472e-aa94-a1387048f9c8")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR06"
 			(at 76.2 62.23 0)
 			(effects
 				(font
@@ -7501,7 +7501,7 @@
 		(instances
 			(project "hairclip"
 				(path "/d641266f-28be-4124-8b00-4ae47c4ffb54"
-					(reference "#PWR03")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
