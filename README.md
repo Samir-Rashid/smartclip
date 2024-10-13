@@ -6,3 +6,4 @@ Intelligent wearable hairclip
 > - Pathway 2: Design new medical devices and assistive solutions (e.g., innovative devices addressing unmet healthcare needs, new assistive technologies for specific disabilities).
 
 
+We optimized for cost by using LDO Voltage regulator.
