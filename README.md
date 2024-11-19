@@ -9,6 +9,7 @@ Intelligent wearable hairclip. A testbed for wearable computing such as health m
 
 ![](./layout.png)
 ![](./15mm.png)
+[image src](https://www.printplaygames.com/product/15mm-wood-discs/)
 
 > 4. Medical Device Innovation and Assistive Technologies
 > - Pathway 1: Improve existing medical devices and assistive technologies (e.g., enhancing usability and sustainability, improving affordability of assistive devices).
